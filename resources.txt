@@ -1,0 +1,20 @@
+Color:
+https://coolors.co/f74f21-ffa415-9064bf-15c8a0-2e4157-777777-b8bbc9-ffffff
+
+Font:
+Poppins (body)
+Averia sans libre, Noto serif, Oswald, Fredoke one (Title)
+
+
+Design Inspiration:
+https://demo.themerally.com/elementor-template/?theme=helphand-charity-website-template-pack
+https://wp.xpeedstudio.com/charitious/home-three/
+https://tkpro-demos.envalab.com/19/template-kit/soolhart-home_page/
+https://kit-demos.envalab.com/helfan/template-kit/helfan-home_page/
+https://html.softtechitltd.com/sympatho/sympatho/index.html
+https://themepure.net/template/donacion/donacion/index.html
+https://pifoxen-html.vercel.app/index.html
+https://preview.themeforest.net/item/humanite-charity-donation-elementor-template-kit/full_screen_preview/30180364?_ga=2.27868927.2115265952.1636979120-550902087.1636973745
+https://preview.themeforest.net/item/gaveall-charity-elementor-template-kit/full_screen_preview/30092778?_ga=2.239170499.1973451834.1636978976-550902087.1636973745
+https://preview.themeforest.net/item/charitian-nonprofit-charity-html-template/full_screen_preview/30350866?_ga=2.238129288.921893514.1651232896-1945735924.1646478506
+https://preview.themeforest.net/item/halpes-non-profit-charity-react-next-template/full_screen_preview/36818173?_ga=2.174184746.921893514.1651232896-1945735924.1646478506
